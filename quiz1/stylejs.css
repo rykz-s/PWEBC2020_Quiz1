@@ -1,0 +1,20 @@
+#app {
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    margin-left: 470px;
+    text-align: center;
+    font-weight: bold;
+}
+
+containers {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    /* height: 100vh; */
+    margin-top: 60px;
+    text-align: center;
+    margin-left: 50px;
+}
